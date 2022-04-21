@@ -4,3 +4,22 @@ git add filename
 git commit -m "commit message"
 git add remote origin url
 git push -u origin main
+============================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+888888888888888888888888888888888888888888888888888888
